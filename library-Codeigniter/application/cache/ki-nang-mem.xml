@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BOOK>
+  <PAGE>
+    <ITEM id="14" cid="3">
+      <TITLE>Tôi tài giỏi, bạn cũng thế</TITLE>
+      <IMG>toi-tai-gioi--ban-cung-the_1419542341.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Adam Khoo</AUTHOR>
+      <PUBLISHER>NXB Phụ Nữ</PUBLISHER>
+      <DATE>2012</DATE>
+      <DESCRIPTION><![CDATA[<p>Trước hết, xin được ch&uacute;c mừng bạn v&igrave; bạn đang sở hữu trong tay phi&ecirc;n bản ebook ho&agrave;n&nbsp;<br />
+to&agrave;n miễn ph&iacute; v&agrave; nhất l&agrave; ho&agrave;n to&agrave;n hợp ph&aacute;p (c&oacute; bản quyền) của s&aacute;ch &ldquo;T&ocirc;i T&agrave;i Giỏi,&nbsp;<br />
+Bạn Cũng Thế!&rdquo;, được cung cấp ch&iacute;nh thức bởi hai t&aacute;c giả chuyển ngữ Trần Đăng Khoa v&agrave;&nbsp;<br />
+U&ocirc;ng Xu&acirc;n Vy.&nbsp;</p>
+]]></DESCRIPTION>
+      <TAG>["Ph\u00e1t tri\u1ec3n b\u1ea3n th\u00e2n"]</TAG>
+      <SCORE>20</SCORE>
+      <VOTES>4</VOTES>
+    </ITEM>
+    <ITEM id="10" cid="3">
+      <TITLE>Phỏng vấn không hề đáng sợ</TITLE>
+      <IMG>phong-van-khong-he-dang-so_1419541667.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Marky Stein</AUTHOR>
+      <PUBLISHER>fearless interviewing</PUBLISHER>
+      <DATE>2010</DATE>
+      <DESCRIPTION><![CDATA[<p>T&igrave;m đc vic l&agrave;m nh s t tin<br />
+- L&agrave;m ngạc nhi&ecirc;n người phỏng vấn ngay 20 gi&acirc;y&nbsp;đầu ti&ecirc;n<br />
+- Trả lời những c&acirc;u hỏi kh&oacute; một c&aacute;ch dễ d&agrave;ng<br />
+- Y&ecirc;u cầu mức lương cao hơn b&igrave;nh thường 20%</p>
+]]></DESCRIPTION>
+      <TAG>["Vi\u1ec7c l\u00e0m","Ph\u1ecfng v\u1ea5n"]</TAG>
+      <SCORE>18</SCORE>
+      <VOTES>3</VOTES>
+    </ITEM>
+    <ITEM id="9" cid="3">
+      <TITLE>Nghệ thuật săn việc 2.0</TITLE>
+      <IMG>nghe-thuat-san-viec-2-0_1419541521.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Jay Conrad Levinson &amp;amp; David E. Perry</AUTHOR>
+      <PUBLISHER>John Wiley &amp;amp; Sons</PUBLISHER>
+      <DATE>2010</DATE>
+      <DESCRIPTION><![CDATA[<p>Bạn c&oacute; biết v&igrave; sao Jay Conrad Levinson v&agrave; David E.&nbsp;<br />
+Perry d&ugrave;ng từ du k&iacute;ch trong tất cả tựa s&aacute;ch v&agrave; trong c&aacute;c&nbsp;<br />
+buổi tr&ograve; chuyện của họ kh&ocirc;ng? Đ&oacute; l&agrave; v&igrave; người du k&iacute;ch biết&nbsp;<br />
+theo đuổi những mục ti&ecirc;u th&ocirc;ng thường theo những c&aacute;ch&nbsp;<br />
+kh&aacute;c thường. C&aacute;c du k&iacute;ch, cũng như độc giả th&agrave;nh c&ocirc;ng&nbsp;<br />
+của tạp ch&iacute; SUCCESS, lu&ocirc;n c&oacute; c&aacute;ch nh&igrave;n thực tế hơn so với&nbsp;<br />
+những người c&oacute; khuynh hướng thực hiện ước mơ bằng&nbsp;<br />
+c&aacute;ch l&agrave;m theo hướng dẫn trong s&aacute;ch vở.</p>
+]]></DESCRIPTION>
+      <TAG>["Vi\u1ec7c l\u00e0m"]</TAG>
+      <SCORE>18</SCORE>
+      <VOTES>4</VOTES>
+    </ITEM>
+  </PAGE>
+  <TP>1</TP>
+</BOOK>

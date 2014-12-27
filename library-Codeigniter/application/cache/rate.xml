@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BOOK>
+  <PAGE>
+    <ITEM id="14" cid="3">
+      <TITLE>Tôi tài giỏi, bạn cũng thế</TITLE>
+      <IMG>toi-tai-gioi--ban-cung-the_1419542341.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Adam Khoo</AUTHOR>
+      <PUBLISHER>NXB Phụ Nữ</PUBLISHER>
+      <DATE>2012</DATE>
+      <DESCRIPTION><![CDATA[<p>Trước hết, xin được ch&uacute;c mừng bạn v&igrave; bạn đang sở hữu trong tay phi&ecirc;n bản ebook ho&agrave;n&nbsp;<br />
+to&agrave;n miễn ph&iacute; v&agrave; nhất l&agrave; ho&agrave;n to&agrave;n hợp ph&aacute;p (c&oacute; bản quyền) của s&aacute;ch &ldquo;T&ocirc;i T&agrave;i Giỏi,&nbsp;<br />
+Bạn Cũng Thế!&rdquo;, được cung cấp ch&iacute;nh thức bởi hai t&aacute;c giả chuyển ngữ Trần Đăng Khoa v&agrave;&nbsp;<br />
+U&ocirc;ng Xu&acirc;n Vy.&nbsp;</p>
+]]></DESCRIPTION>
+      <TAG>["Ph\u00e1t tri\u1ec3n b\u1ea3n th\u00e2n"]</TAG>
+      <SCORE>20</SCORE>
+      <VOTES>4</VOTES>
+    </ITEM>
+    <ITEM id="6" cid="5">
+      <TITLE>Lĩnh vực chứng khoán</TITLE>
+      <IMG>linh-vuc-chung-khoan_1419540916.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Không xác định</AUTHOR>
+      <PUBLISHER>NXB Kim Đồng</PUBLISHER>
+      <DATE>2013</DATE>
+      <DESCRIPTION><![CDATA[<p>Kh&ocirc;ng c&oacute; m&ocirc; tả</p>
+]]></DESCRIPTION>
+      <TAG>["Ch\u1ee9ng kho\u00e1n"]</TAG>
+      <SCORE>20</SCORE>
+      <VOTES>2</VOTES>
+    </ITEM>
+    <ITEM id="3" cid="1">
+      <TITLE>Facebook Application Development for Dummies</TITLE>
+      <IMG>facebook-application-development-for-dummies_1419539536.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Jesse Stay</AUTHOR>
+      <PUBLISHER>Wiley Publishing, Inc.</PUBLISHER>
+      <DATE>2011</DATE>
+      <DESCRIPTION><![CDATA[<p>Learn to:<br />
+&bull; Install the Facebook toolkit&nbsp;and use the Graph API<br />
+&bull; Use Facebook Markup Language&nbsp;and Facebook Query Language<br />
+&bull; Create applications for marketing&nbsp;and making money<br />
+&bull; Boost your brand with a Facebook page</p>
+]]></DESCRIPTION>
+      <TAG>["API"]</TAG>
+      <SCORE>20</SCORE>
+      <VOTES>1</VOTES>
+    </ITEM>
+    <ITEM id="26" cid="1">
+      <TITLE>CodeIgniter 1.7 Professional  Development</TITLE>
+      <IMG>codeigniter-1-7-professional--development_1419553893.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Adam Griffiths</AUTHOR>
+      <PUBLISHER>Packt Publishing</PUBLISHER>
+      <DATE>2010</DATE>
+      <DESCRIPTION><![CDATA[<p>Become a CodeIgniter expert with professional tools,&nbsp;techniques, and extended libraries</p>
+]]></DESCRIPTION>
+      <TAG>["Php","web development"]</TAG>
+      <SCORE>20</SCORE>
+      <VOTES>1</VOTES>
+    </ITEM>
+    <ITEM id="15" cid="5">
+      <TITLE>Đánh cắp ý tưởng</TITLE>
+      <IMG>danh-cap-y-tuong_1419542664.jpg</IMG>
+      <COST>4</COST>
+      <AUTHOR>Steve Cone</AUTHOR>
+      <PUBLISHER>NXB Trẻ</PUBLISHER>
+      <DATE>2011</DATE>
+      <DESCRIPTION><![CDATA[<p>Phi&ecirc;n bản ebook n&agrave;y được thực hiện theo bản quyền xuất bản v&agrave; ph&aacute;t h&agrave;nh ấn bản<br />
+tiếng Việt của c&ocirc;ng ty First News - Tr&iacute; Việt với sự t&agrave;i trợ độc quyền của c&ocirc;ng ty<br />
+TNHH Samsung Electronics Việt Nam. T&aacute;c phẩm n&agrave;y kh&ocirc;ng được chuyển dạng<br />
+sang bất kỳ h&igrave;nh thức n&agrave;o hay sử dụng cho bất kỳ mục đ&iacute;ch thương mại n&agrave;o</p>
+]]></DESCRIPTION>
+      <TAG>["Qu\u1ea3n l\u00fd","Kinh doanh"]</TAG>
+      <SCORE>19</SCORE>
+      <VOTES>3</VOTES>
+    </ITEM>
+    <ITEM id="16" cid="1">
+      <TITLE>Using Javascript</TITLE>
+      <IMG>using-javascript_1419543261.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Không xác định</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>2009</DATE>
+      <DESCRIPTION><![CDATA[<p>Kh&ocirc;ng c&oacute; m&ocirc; tả</p>
+]]></DESCRIPTION>
+      <TAG>["không có tag"]</TAG>
+      <SCORE>19</SCORE>
+      <VOTES>2</VOTES>
+    </ITEM>
+  </PAGE>
+  <TP>1</TP>
+</BOOK>

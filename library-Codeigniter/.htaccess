@@ -1,0 +1,23 @@
+Options -Indexes
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?localhost [NC]
+RewriteRule \.(jpg|jpeg|png|gif|pdf)$ - [NC,F,L]
+
+<IfModule mod_rewrite.c>
+    Options +FollowSymLinks -Indexes
+    Options -MultiViews
+    
+    RewriteEngine On
+
+    <IfModule mod_php5.c>
+        RewriteCond %{REQUEST_FILENAME} !-f
+        RewriteCond %{REQUEST_FILENAME} !-d
+        RewriteRule ^(.*)$ index.php/$1 [L]
+    </IfModule>
+
+    <IfModule !mod_php5.c>
+        RewriteCond %{REQUEST_FILENAME} !-f
+        RewriteCond %{REQUEST_FILENAME} !-d
+        RewriteRule ^(.*)$ index.php?/$1 [L]
+    </IfModule>
+</IfModule>  

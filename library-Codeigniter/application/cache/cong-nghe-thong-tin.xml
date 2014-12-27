@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BOOK>
+  <PAGE>
+    <ITEM id="28" cid="1">
+      <TITLE>HTML5 and CSS3  Responsive Web  Design Cookbook</TITLE>
+      <IMG>html5-and-css3--responsive-web--design-cookbook_1419555471.jpg</IMG>
+      <COST>4</COST>
+      <AUTHOR>Benjamin LaGrone</AUTHOR>
+      <PUBLISHER>Packt Publishing</PUBLISHER>
+      <DATE>2013</DATE>
+      <DESCRIPTION><![CDATA[<p>Learn the secrets of developing responsive websites&nbsp;capable of interfacing with today&#39;s mobile Internet devices</p>
+]]></DESCRIPTION>
+      <TAG>["web development","Mobile"]</TAG>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="27" cid="1">
+      <TITLE>Expert MySQL Second Edition</TITLE>
+      <IMG>expert-mysql-second-edition_1419555224.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Charles Bell</AUTHOR>
+      <PUBLISHER>Apress</PUBLISHER>
+      <DATE>2012</DATE>
+      <DESCRIPTION><![CDATA[<p>MySQL has been identified as the world&rsquo;s most popular open-source database and the fastest-growing database&nbsp;system in the industry. This book presents some of the topics of advanced database systems, examines the&nbsp;architecture of MySQL, and provides an expert&rsquo;s workbook for examining, integrating, and modifying the MySQL&nbsp;source code for use in enterprise environments. The book provides insight into how to modify the MySQL system to&nbsp;<br />
+meet the unique needs of system integrators and educators alike.</p>
+]]></DESCRIPTION>
+      <TAG>["Database"]</TAG>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="26" cid="1">
+      <TITLE>CodeIgniter 1.7 Professional  Development</TITLE>
+      <IMG>codeigniter-1-7-professional--development_1419553893.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Adam Griffiths</AUTHOR>
+      <PUBLISHER>Packt Publishing</PUBLISHER>
+      <DATE>2010</DATE>
+      <DESCRIPTION><![CDATA[<p>Become a CodeIgniter expert with professional tools,&nbsp;techniques, and extended libraries</p>
+]]></DESCRIPTION>
+      <TAG>["Php","web development"]</TAG>
+      <SCORE>20</SCORE>
+      <VOTES>1</VOTES>
+    </ITEM>
+    <ITEM id="25" cid="1">
+      <TITLE>CMS Design Using PHP and  jQuery</TITLE>
+      <IMG>cms-design-using-php-and--jquery_1419553683.jpg</IMG>
+      <COST>3</COST>
+      <AUTHOR>Kae Verens</AUTHOR>
+      <PUBLISHER>Packt Publishing</PUBLISHER>
+      <DATE>2010</DATE>
+      <DESCRIPTION><![CDATA[<p>Build and improve your in-house PHP CMS by&nbsp;enhancing it with jQuery</p>
+]]></DESCRIPTION>
+      <TAG>["web development"]</TAG>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="24" cid="1">
+      <TITLE>CakePHP Application  Development</TITLE>
+      <IMG>cakephp-application--development_1419553564.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Ahsanul Bari, Anupom Syam</AUTHOR>
+      <PUBLISHER>Packt Publishing</PUBLISHER>
+      <DATE>2008</DATE>
+      <DESCRIPTION><![CDATA[<p>Step-by-step introduction to rapid web&nbsp;development using the open-source MVC&nbsp;CakePHP framework</p>
+]]></DESCRIPTION>
+      <TAG>["Php","web development"]</TAG>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="23" cid="1">
+      <TITLE>Beginning Smartphone  Web Development</TITLE>
+      <IMG>beginning-smartphone--web-development_1419552799.jpg</IMG>
+      <COST>4</COST>
+      <AUTHOR>Gail Rahn Frederick  with Rajesh Lal</AUTHOR>
+      <PUBLISHER>Apress</PUBLISHER>
+      <DATE>2010</DATE>
+      <DESCRIPTION><![CDATA[<p>Building JavaScript, CSS, HTML and Ajax-based&nbsp;Applications for iPhone, Android, Palm Pre, BlackBerry,&nbsp;Windows Mobile, and Nokia S60</p>
+]]></DESCRIPTION>
+      <TAG>["web development","Mobile"]</TAG>
+      <SCORE>10</SCORE>
+      <VOTES>1</VOTES>
+    </ITEM>
+  </PAGE>
+  <PAGE>
+    <ITEM id="22" cid="1">
+      <TITLE>Beginning PHP  and PostgreSQL 8 From Novice to Professional</TITLE>
+      <IMG>beginning-php--and-postgresql-8-from-novice-to-professional_1419546194.jpg</IMG>
+      <COST>3</COST>
+      <AUTHOR>W. Jason Gilmore and Robert H. Treat</AUTHOR>
+      <PUBLISHER>Apress</PUBLISHER>
+      <DATE>2008</DATE>
+      <DESCRIPTION><![CDATA[<p>These are exciting times for the open source movement, and perhaps no two projects better&nbsp;<br />
+represent this development paradigm&rsquo;s incredible level of progress than the PHP scripting&nbsp;<br />
+language and PostgreSQL database server.</p>
+]]></DESCRIPTION>
+      <TAG>["Php","Database","web development"]</TAG>
+      <SCORE>17</SCORE>
+      <VOTES>2</VOTES>
+    </ITEM>
+    <ITEM id="21" cid="1">
+      <TITLE>Beginning PHP and MySQL E-Commerce</TITLE>
+      <IMG>beginning-php-and-mysql-e-commerce_1419545701.jpg</IMG>
+      <COST>3</COST>
+      <AUTHOR>Cristian Darie and Emilian Balanescu</AUTHOR>
+      <PUBLISHER>Apress</PUBLISHER>
+      <DATE>2008</DATE>
+      <DESCRIPTION><![CDATA[<p>This practical PHP and MySQL tutorial will&nbsp;teach you how to successfully design and build&nbsp;<br />
+fully featured e-commerce web sites.</p>
+]]></DESCRIPTION>
+      <TAG>["Php","Database","web development"]</TAG>
+      <SCORE>14</SCORE>
+      <VOTES>3</VOTES>
+    </ITEM>
+    <ITEM id="20" cid="1">
+      <TITLE>Beginning jQuery</TITLE>
+      <IMG>beginning-jquery_1419545559.jpg</IMG>
+      <COST>4</COST>
+      <AUTHOR>Jack Franklin</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>2008</DATE>
+      <DESCRIPTION><![CDATA[<p>For your convenience Apress has placed some of the front&nbsp;<br />
+matter material after the index. Please use the Bookmarks&nbsp;<br />
+and Contents at a Glance links to access them.&nbsp;</p>
+
+<p>&nbsp;</p>
+]]></DESCRIPTION>
+      <TAG>["web development"]</TAG>
+      <SCORE>17</SCORE>
+      <VOTES>4</VOTES>
+    </ITEM>
+    <ITEM id="19" cid="1">
+      <TITLE>Beginning HTML5 and  CSS3</TITLE>
+      <IMG>beginning-html5-and--css3_1419545300.jpg</IMG>
+      <COST>3</COST>
+      <AUTHOR>Richard Clark, Oli Studholme,  Christopher Murphy and Divya Manian </AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>2008</DATE>
+      <DESCRIPTION><![CDATA[<p>Who is this book for?&nbsp;<br />
+Beginning HTML5 and CSS3: The Web Evolved is aimed at anybody with a basic knowledge of HTML and CSS. If&nbsp;you have just recently dipped your toes into the world of HTML or CSS, or if you&rsquo;ve been developing sites for years,&nbsp;there will be something in this book for you. However, you will get the most out of this book if you&rsquo;ve had a play with&nbsp;HTML5 and CSS3 but don&rsquo;t yet fully understand all it has to offer. This book is packed full of practical, real-world &nbsp;advice and examples to help you master modern web standards.</p>
+]]></DESCRIPTION>
+      <TAG>["web development"]</TAG>
+      <SCORE>15</SCORE>
+      <VOTES>5</VOTES>
+    </ITEM>
+    <ITEM id="18" cid="1">
+      <TITLE>AJAX and PHP  Building Responsive Web Applications </TITLE>
+      <IMG>ajax-and-php--building-responsive-web-applications-_1419544313.jpg</IMG>
+      <COST>4</COST>
+      <AUTHOR>Cristian Darie, Bogdan Brinzarea, Filip Cherecheş-Toşa, Mihai Bucica</AUTHOR>
+      <PUBLISHER>Packt Publishing</PUBLISHER>
+      <DATE>2012</DATE>
+      <DESCRIPTION><![CDATA[<p>Enhance the user experience of your PHP website&nbsp;<br />
+using AJAX with this practical tutorial featuring detailed&nbsp;<br />
+case studies&nbsp;</p>
+]]></DESCRIPTION>
+      <TAG>["Php"]</TAG>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="17" cid="1">
+      <TITLE>Advanced PHP Programming</TITLE>
+      <IMG>advanced-php-programming_1419543478.jpg</IMG>
+      <COST>3</COST>
+      <AUTHOR>George Schlossnagle</AUTHOR>
+      <PUBLISHER>Sams Publishing</PUBLISHER>
+      <DATE>Không xác định</DATE>
+      <DESCRIPTION><![CDATA[<p>A practical guide to developing large-scale&nbsp;<br />
+Web sites and applications with PHP 5</p>
+]]></DESCRIPTION>
+      <TAG>["Php"]</TAG>
+      <SCORE>18</SCORE>
+      <VOTES>1</VOTES>
+    </ITEM>
+  </PAGE>
+  <PAGE>
+    <ITEM id="16" cid="1">
+      <TITLE>Using Javascript</TITLE>
+      <IMG>using-javascript_1419543261.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Không xác định</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>2009</DATE>
+      <DESCRIPTION><![CDATA[<p>Kh&ocirc;ng c&oacute; m&ocirc; tả</p>
+]]></DESCRIPTION>
+      <TAG>["không có tag"]</TAG>
+      <SCORE>19</SCORE>
+      <VOTES>2</VOTES>
+    </ITEM>
+    <ITEM id="11" cid="1">
+      <TITLE>Thủ thuật SEO</TITLE>
+      <IMG>thu-thuat-seo_1419541849.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Tỉnh Trần </AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>2012</DATE>
+      <DESCRIPTION><![CDATA[<p>Tối ưu h&oacute;a c&ocirc;ng cụ t&igrave;m kiếm (SEO) l&agrave; một trong những c&ocirc;ng việc kh&oacute; nhưng&nbsp;<br />
+m&agrave;u mỡ v&agrave; mang lại lợi nhuận to lớn cho c&aacute;c c&ocirc;ng ty v&agrave; doanh nghiệp cũng&nbsp;<br />
+như c&aacute;c c&aacute; nh&acirc;n đang kinh doanh tr&ecirc;n internet.&nbsp;<br />
+Bất cứ ai muốn kiếm tiền tr&ecirc;n mạng, kinh doanh tr&ecirc;n internet hay muốn tạo thu&nbsp;<br />
+nhập tr&ecirc;n internet đều cần c&oacute; những kiến thức &amp; kinh nghiệm về SEO để tăng&nbsp;<br />
+lượng truy cập cũng như tăng lượng kh&aacute;ch h&agrave;ng tiềm năng cho m&igrave;nh.&nbsp;</p>
+
+<p>&nbsp;</p>
+]]></DESCRIPTION>
+      <TAG>["SEO"]</TAG>
+      <SCORE>17</SCORE>
+      <VOTES>2</VOTES>
+    </ITEM>
+    <ITEM id="8" cid="1">
+      <TITLE>Tự học SQL</TITLE>
+      <IMG>tu-hoc-sql_1419541318.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Không xác định</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>2010</DATE>
+      <DESCRIPTION><![CDATA[<p>Welcome to SQL tutorial</p>
+]]></DESCRIPTION>
+      <TAG>["Database"]</TAG>
+      <SCORE>18</SCORE>
+      <VOTES>1</VOTES>
+    </ITEM>
+    <ITEM id="7" cid="1">
+      <TITLE>Giáo trình Photoshop CS8</TITLE>
+      <IMG>giao-trinh-photoshop-cs8_1419541193.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Lưu Hoàng Lý</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>2010</DATE>
+      <DESCRIPTION><![CDATA[<p>Kh&ocirc;ng c&oacute; m&ocirc; tả</p>
+]]></DESCRIPTION>
+      <TAG>["\u0110\u1ed3 H\u1ecda"]</TAG>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="3" cid="1">
+      <TITLE>Facebook Application Development for Dummies</TITLE>
+      <IMG>facebook-application-development-for-dummies_1419539536.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Jesse Stay</AUTHOR>
+      <PUBLISHER>Wiley Publishing, Inc.</PUBLISHER>
+      <DATE>2011</DATE>
+      <DESCRIPTION><![CDATA[<p>Learn to:<br />
+&bull; Install the Facebook toolkit&nbsp;and use the Graph API<br />
+&bull; Use Facebook Markup Language&nbsp;and Facebook Query Language<br />
+&bull; Create applications for marketing&nbsp;and making money<br />
+&bull; Boost your brand with a Facebook page</p>
+]]></DESCRIPTION>
+      <TAG>["API"]</TAG>
+      <SCORE>20</SCORE>
+      <VOTES>1</VOTES>
+    </ITEM>
+    <ITEM id="2" cid="1">
+      <TITLE>Căn bản PHP</TITLE>
+      <IMG>can-ban-php_1419539177.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>WWW.HUUKHANG.COM</AUTHOR>
+      <PUBLISHER>COMPUTER LEARNING CENTER </PUBLISHER>
+      <DATE>2010</DATE>
+      <DESCRIPTION><![CDATA[<p>kh&ocirc;ng c&oacute; m&ocirc; tả</p>
+]]></DESCRIPTION>
+      <TAG>["Php"]</TAG>
+      <SCORE>16</SCORE>
+      <VOTES>2</VOTES>
+    </ITEM>
+  </PAGE>
+  <PAGE>
+    <ITEM id="1" cid="1">
+      <TITLE>Advanced Java Networking</TITLE>
+      <IMG>advanced-java-networking_1419538915.jpg</IMG>
+      <COST>0</COST>
+      <AUTHOR>Không xác định</AUTHOR>
+      <PUBLISHER>Không xác định</PUBLISHER>
+      <DATE>2009</DATE>
+      <DESCRIPTION><![CDATA[<p>By now you&#39;ve seen all the hype, read all the books, and discovered all the wonders of&nbsp;<br />
+Java. But most of us still use C++ or C to create our hard-core applications, saving&nbsp;<br />
+Java for our Web pages or leaving it to HTML jocks to fiddle with. Doing so denies&nbsp;<br />
+us the opportunity to use a programming language that makes interfacing with a&nbsp;<br />
+computer infinitely easier, with less frustration and faster results.&nbsp;<br />
+Java is much more than &quot;Dancing Dukes&quot; or a programming language for Web pages.&nbsp;<br />
+It is a strong alternative to the masochistic programming of the past, in which&nbsp;<br />
+countless months were spent debugging compared to the mere days it took to code the&nbsp;<br />
+initial concept. Java allows us to spend more time in the conceptual phase of software&nbsp;<br />
+design, thinking up new and creative ways to bring the vast knowledge of the Internet&nbsp;<br />
+and its many users to our desktop.&nbsp;<br />
+Today, our information, and its steady flow, is garnered from the Internet and the&nbsp;<br />
+millions of fellow computer users around the world. Up until now, you&#39;ve no doubt&nbsp;<br />
+designed programs to interface with that knowledge using C or C++. Java will change&nbsp;<br />
+all of that. In addition to its ability to create adorable and functional user interfaces&nbsp;<br />
+quickly and easily is Java&#39;s ability to easily connect to the Internet. Java is, after&nbsp;<br />
+all,the Internet Language.&nbsp;</p>
+]]></DESCRIPTION>
+      <TAG>["Java"]</TAG>
+      <SCORE>14</SCORE>
+      <VOTES>3</VOTES>
+    </ITEM>
+  </PAGE>
+  <TP>4</TP>
+</BOOK>

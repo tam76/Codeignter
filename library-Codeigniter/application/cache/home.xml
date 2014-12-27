@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BOOK>
+  <PAGE>
+    <ITEM id="28" cid="1">
+      <TITLE>HTML5 and CSS3  Responsive Web  Design Cookbook</TITLE>
+      <IMG>html5-and-css3--responsive-web--design-cookbook_1419555471.jpg</IMG>
+      <COST>4</COST>
+      <AUTHOR>Benjamin LaGrone</AUTHOR>
+      <PUBLISHER>Packt Publishing</PUBLISHER>
+      <DATE>2013</DATE>
+      <DESCRIPTION><![CDATA[<p>Learn the secrets of developing responsive websites&nbsp;capable of interfacing with today&#39;s mobile Internet devices</p>
+]]></DESCRIPTION>
+      <TAG>["web development","Mobile"]</TAG>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="27" cid="1">
+      <TITLE>Expert MySQL Second Edition</TITLE>
+      <IMG>expert-mysql-second-edition_1419555224.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Charles Bell</AUTHOR>
+      <PUBLISHER>Apress</PUBLISHER>
+      <DATE>2012</DATE>
+      <DESCRIPTION><![CDATA[<p>MySQL has been identified as the world&rsquo;s most popular open-source database and the fastest-growing database&nbsp;system in the industry. This book presents some of the topics of advanced database systems, examines the&nbsp;architecture of MySQL, and provides an expert&rsquo;s workbook for examining, integrating, and modifying the MySQL&nbsp;source code for use in enterprise environments. The book provides insight into how to modify the MySQL system to&nbsp;<br />
+meet the unique needs of system integrators and educators alike.</p>
+]]></DESCRIPTION>
+      <TAG>["Database"]</TAG>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="26" cid="1">
+      <TITLE>CodeIgniter 1.7 Professional  Development</TITLE>
+      <IMG>codeigniter-1-7-professional--development_1419553893.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Adam Griffiths</AUTHOR>
+      <PUBLISHER>Packt Publishing</PUBLISHER>
+      <DATE>2010</DATE>
+      <DESCRIPTION><![CDATA[<p>Become a CodeIgniter expert with professional tools,&nbsp;techniques, and extended libraries</p>
+]]></DESCRIPTION>
+      <TAG>["Php","web development"]</TAG>
+      <SCORE>20</SCORE>
+      <VOTES>1</VOTES>
+    </ITEM>
+    <ITEM id="25" cid="1">
+      <TITLE>CMS Design Using PHP and  jQuery</TITLE>
+      <IMG>cms-design-using-php-and--jquery_1419553683.jpg</IMG>
+      <COST>3</COST>
+      <AUTHOR>Kae Verens</AUTHOR>
+      <PUBLISHER>Packt Publishing</PUBLISHER>
+      <DATE>2010</DATE>
+      <DESCRIPTION><![CDATA[<p>Build and improve your in-house PHP CMS by&nbsp;enhancing it with jQuery</p>
+]]></DESCRIPTION>
+      <TAG>["web development"]</TAG>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="24" cid="1">
+      <TITLE>CakePHP Application  Development</TITLE>
+      <IMG>cakephp-application--development_1419553564.jpg</IMG>
+      <COST>2</COST>
+      <AUTHOR>Ahsanul Bari, Anupom Syam</AUTHOR>
+      <PUBLISHER>Packt Publishing</PUBLISHER>
+      <DATE>2008</DATE>
+      <DESCRIPTION><![CDATA[<p>Step-by-step introduction to rapid web&nbsp;development using the open-source MVC&nbsp;CakePHP framework</p>
+]]></DESCRIPTION>
+      <TAG>["Php","web development"]</TAG>
+      <SCORE>0</SCORE>
+      <VOTES>0</VOTES>
+    </ITEM>
+    <ITEM id="23" cid="1">
+      <TITLE>Beginning Smartphone  Web Development</TITLE>
+      <IMG>beginning-smartphone--web-development_1419552799.jpg</IMG>
+      <COST>4</COST>
+      <AUTHOR>Gail Rahn Frederick  with Rajesh Lal</AUTHOR>
+      <PUBLISHER>Apress</PUBLISHER>
+      <DATE>2010</DATE>
+      <DESCRIPTION><![CDATA[<p>Building JavaScript, CSS, HTML and Ajax-based&nbsp;Applications for iPhone, Android, Palm Pre, BlackBerry,&nbsp;Windows Mobile, and Nokia S60</p>
+]]></DESCRIPTION>
+      <TAG>["web development","Mobile"]</TAG>
+      <SCORE>10</SCORE>
+      <VOTES>1</VOTES>
+    </ITEM>
+  </PAGE>
+  <TP>1</TP>
+</BOOK>
